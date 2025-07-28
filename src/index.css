@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@theme {
+  --color-maroon-100: #E12529;
+  --color-maroon-200: #E12529;
+  --color-maroon-300: #C31B1E;
+  --color-maroon-400: #9F1619;
+  --color-maroon-500: #680910;
+  --color-maroon-600: #4A0A0B;
+  --color-maroon-700: #180304;
+  --color-white-100: #e5e0e1;
+  
+
+}
+
+.font-zen-old {
+    font-family: "Zen Old Mincho", serif;
+}
